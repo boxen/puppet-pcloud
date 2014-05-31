@@ -12,6 +12,6 @@ include pcloud
 
 ## Developing
 
-Write code.
+Write code and send a Pull Request :)
 
 Run `script/cibuild`.

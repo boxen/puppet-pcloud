@@ -1,5 +1,7 @@
 # pCloud Puppet Module for Boxen
 
+[![Build Status](https://travis-ci.org/boxen/puppet-pcloud?branch=master)](https://travis-ci.org/boxen/puppet-pcloud)
+
 ## Usage
 
 ```puppet
